@@ -15,3 +15,6 @@
 
 ## 実行時間の計測
  * timeit → python -m timeit xxxxxx.py
+
+## ユニットテストの実行
+ * python -m unittest
