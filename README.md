@@ -8,3 +8,10 @@
 
 ## dashのインストール
  * pip install dash
+
+## CPU プロファイリング
+ * python -m cProfile --sort cumtime xxxxx.py
+ → percall、cumtimeの大きなものを探し出すことで「容疑者」を特定する
+
+## 実行時間の計測
+ * timeit → python -m timeit xxxxxx.py
