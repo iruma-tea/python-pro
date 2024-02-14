@@ -18,3 +18,6 @@
 
 ## ユニットテストの実行
  * python -m unittest
+
+## pytestのインストール
+ * pip install pytest
