@@ -21,3 +21,8 @@
 
 ## pytestのインストール
  * pip install pytest
+
+## pytestの実行
+ * pytest
+ * pytestのテストケースの作成ルール
+ * * クラス名を Test* として作成する 
