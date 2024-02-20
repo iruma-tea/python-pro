@@ -14,6 +14,9 @@
 			"editor.wordBasedSuggestions": "off",
 			"editor.formatOnSave": true,
 			"editor.defaultFormatter": "ms-python.autopep8",
-		}
+		},
+		"autopep8.args": [
+			"--ignore=E501"
+		],
 	}
 }

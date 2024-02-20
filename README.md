@@ -27,5 +27,5 @@
  * pytestのテストケースの作成ルール
  * * クラス名を Test* として作成する 
 
- ## Requestsのインストール(https://github.com/psf/requests)
+## Requestsのインストール(https://github.com/psf/requests)
   * pip install requests
